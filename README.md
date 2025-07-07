@@ -14,6 +14,28 @@ Each project below showcases a different ML concept. Click on each project folde
 | 🐶🐱 **Cat and Dog Image Classifier** | Built an image classifier using convolutional layers to distinguish between cats and dogs. | ✅ Completed |
 | 📚 **Book Recommendation Engine using KNN** | Developed a recommendation system using K-Nearest Neighbors on user rating data. | ✅ Completed |
 | 💰 **Linear Regression Health Costs Calculator** | Predicted medical insurance costs using multiple linear regression models. | ✅ Completed |
-| 💬 **Neural Network SMS Text Classifier** | A binary classifier to detect spam vs. ham SMS using neural networks. | 🔄 In Progress |
+| 💬 **Neural Network SMS Text Classifier** | A binary classifier to detect spam vs. ham SMS using neural networks. | ✅ Completed |
 
 ---
+
+## 🛠️ Tools & Libraries
+
+- Python 🐍
+- TensorFlow / Keras
+- NumPy, Pandas
+- scikit-learn
+- Matplotlib / Seaborn
+- Jupyter Notebooks
+
+---
+
+## 📜 Certification Link
+
+https://www.freecodecamp.org/certification/Pawan_26/machine-learning-with-python-v7
+
+---
+
+## 🙋‍♂️ Author
+
+**Pawan Manghnani**  
+[GitHub Profile](https://github.com/TechnoAceX)
